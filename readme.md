@@ -41,8 +41,8 @@ Sistem ini disimulasikan menggunakan platform **Wokwi** dan dapat dikembangkan l
 
 ## 🔗 Link Proyek
 
-- 🎬 **YouTube (Demo Video)**: [https://youtu.be/eYkqEco4bU4](#)  
-- 🛠️ **Wokwi Simulation**: [https://wokwi.com/projects/435354038925716481](#)  
+- 🎬 **YouTube (Demo Video)**: [https://youtu.be/eYkqEco4bU4](https://youtu.be/eYkqEco4bU4)  
+- 🛠️ **Wokwi Simulation**: [https://wokwi.com/projects/435354038925716481](https://wokwi.com/projects/435354038925716481)  
 
 ---
 
